@@ -1,1 +1,1 @@
-echo worker: python discordapp.py
+worker: python3 bot.py
